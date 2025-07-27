@@ -184,7 +184,7 @@ Recordes
 /*
  * Para tornar as nossas páginas responsivas
  */
-@media(max-width: 991px) {
+@media(max-width: 600px) {
     /* Regras */
     .regras {
         flex-direction: column;
