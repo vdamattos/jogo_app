@@ -49,6 +49,6 @@ O jogador deve clicar rapidamente nas toupeiras que aparecem aleatoriamente no t
 
 ## Projeto acadêmico
 
-Este jogo foi desenvolvido como parte da disciplina **[Nome da Disciplina]** do curso de **Pós-Graduação em Ciência de Dados e Analytics na PUC-Rio**.
+Este jogo foi desenvolvido como parte da disciplina do curso de **Pós-Graduação em Ciência de Dados e Analytics na PUC-Rio**.
 
 ---
